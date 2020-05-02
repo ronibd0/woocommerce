@@ -5,7 +5,7 @@
   "homepage": "https://woocommerce.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/woocommerce/woocommerce.git"
+    "url": "https://github.com/ronibd0/woocommerce.git"
   },
   "license": "GPL-3.0+",
   "main": "Gruntfile.js",
@@ -67,7 +67,7 @@
   },
   "dependencies": {
     "@woocommerce/block-library": "2.0.1",
-    "github-contributors-list": "https://github.com/woocommerce/github-contributors-list/tarball/master"
+    "github-contributors-list": "https://github.com/ronibd0/github-contributors-list/tarball/master"
   },
   "husky": {
     "hooks": {
